@@ -86,6 +86,3 @@ If you use this code in your research, please cite our paper:
 
 For questions about the code or the paper, please open an issue on this repository.
 
-## License
-
-This project is released under the MIT License — see [LICENSE](LICENSE) for details.
