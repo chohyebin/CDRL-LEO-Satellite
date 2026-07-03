@@ -61,20 +61,6 @@ Edit `parameters.py` to adjust system parameters:
 
 Hyperparameters of the DQN agent (learning rate, epsilon decay, batch size, etc.) are defined inside the `DQN` class in `MAIN_Proposed.py`.
 
-## Citation
-
-If you use this code in your research, please cite our paper:
-
-```bibtex
-@article{cho2026cdrl,
-  title   = {Jointly Optimizing Frequency Reuse and Transmit Power for LEO
-             Satellite Networks via Collaborative DRL with Information Sharing},
-  author  = {Cho, Hyebin and Lee, In-Ho and Lee, Howon},
-  journal = {IEEE Internet of Things Journal},
-  year    = {2026},
-  note    = {Under review}
-}
-```
 
 ## Contact
 
