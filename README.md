@@ -23,12 +23,6 @@ The framework realizes inter-satellite knowledge sharing via **simultaneous neur
 └── README.md
 ```
 
-## Environment
-
-- **Python**: 3.9 or higher recommended
-- **OS**: tested on Linux (Ubuntu) and Windows
-- **Hardware**: GPU recommended for TensorFlow training (CUDA-compatible). CPU also works but is slower.
-
 ## Installation
 
 ```bash
